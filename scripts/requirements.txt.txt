@@ -1,0 +1,12 @@
+notebook
+jupyter
+pandas
+matplotlib
+seaborn
+plotly
+scipy
+sklearn
+category_encoders
+missingno
+basedosdados
+Jinja2
